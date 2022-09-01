@@ -1,21 +1,21 @@
 {
-  {
-"firstName":"Sagar"
-"lastName":"Thapa
-  },
-  
-    {
-"firstName":"Sagar"
-"lastName":"Thapa
-  },
-  
-  
-    {
-"firstName":"Sagar"
-"lastName":"Thapa
-  }
-  
-]
+	[{
+			"firstName": "Sagar",
+			"lastName": "Thapa"
+		},
+
+		{
+			"firstName": "Sagar",
+			"lastName": "Thapa"
+		},
+
+
+		{
+			"firstName": "Sagar",
+			"lastName": "Thapa"
+		}
+
+	]
 
 
 }
